@@ -112,6 +112,9 @@ These are static files — no server-side logic required.
 
 **Clarisa Saade**
 QA Automation Engineer · Buenos Aires, Argentina
-tae.clarisa@gmail.com
-IN_es: https://www.linkedin.com/in/clarisaade/?locale=es-ES
+
+📩 tae.clarisa@gmail.com
+
+IN_es: https://www.linkedin.com/in/clarisaade/?locale=es-ES 
+
 IN_en: https://www.linkedin.com/in/clarisaade/?locale=en-US
