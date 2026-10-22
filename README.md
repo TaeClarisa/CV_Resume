@@ -43,14 +43,14 @@ The primary version of the CV, written in Spanish.
 Identical in design and functionality to the Spanish version. All content translated to English, sourced from the official English CV.
 
 **Sections (in order):**
-1. Hero
-2. About me
-3. Tools & Skills
-4. Languages
-5. Professional Experience
-6. Education
-7. Interests & Hobbies
-8. Contact
+1. Hero — name, animated typing title, location, CTA buttons and key stats
+2. About me — professional profile and highlight cards
+3. Tools & Skills — technology stack organized by category
+4. Languages — language proficiency with animated progress bars
+5. Professional Experience — work history timeline (Globant, G&L Group, Qualis Lab)
+6. Education — academic background (EducacionIT, Universidad Nacional del Sur)
+7. Interests & Hobbies — personal interests
+8. Contact — contact form that opens the user's mail client + links
 
 **Key features:**
 - Navigation bar with a language switch button (`🇦🇷 ES`) that links back to the Spanish version
